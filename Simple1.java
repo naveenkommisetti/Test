@@ -3,5 +3,6 @@ class Simple1{
      System.out.println("Hello Java");  
      System.out.println("Naveen Changes first");
      System.out.println("Naveen Changes Second");
+     System.out.println("Naveen Changes Third");
     }  
 }
